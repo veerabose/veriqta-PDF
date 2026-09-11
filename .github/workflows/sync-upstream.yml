@@ -1,0 +1,30 @@
+name: Daily Sync From Upstream
+
+on:
+  schedule:
+    # Runs every day at 03:15 UTC
+    - cron: "15 3 * * *"
+
+  # Allows you to run it manually from the GitHub portal
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Sync fork with veriqta/PDF
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Syncing veerabose/veriqta-PDF main with veriqta/PDF main..."
+
+          gh api \
+            --method POST \
+            /repos/${{ github.repository }}/merge-upstream \
+            -f branch=main
+
+          echo "Sync completed."
