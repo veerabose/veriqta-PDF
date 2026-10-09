@@ -1,6 +1,6 @@
 <div align="center">
 
-![VERIQTA Engineering PDF Library](assets/pdf-library-banner.svg)
+![VERIQTA Engineering PDF Library](https://github.com/veriqta/veriqta/blob/main/pdf-library-banner.svg)
 
 # VERIQTA Engineering PDF Library
 
