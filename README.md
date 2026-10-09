@@ -1,20 +1,20 @@
 <div align="center">
 
-![VERIQTA Engineering PDF Library](https://github.com/veriqta/veriqta/blob/main/pdf-library-banner.svg)
+![VERIQTA Press](assets/veriqta-press-banner.svg)
 
-# VERIQTA Engineering PDF Library
+# VERIQTA Press
 
-**Explore engineering PDFs across Linux, cloud, DevOps, SRE, security, platform engineering and production systems.**
+**Engineering PDFs, notebooks and practical learning resources.**
 
-[Browse all topics](#browse-the-library) · [Choose a starting point](#choose-your-starting-point) · [Use the resources](#make-the-most-of-the-library)
+[Browse all topics](#browse-the-collection) · [Choose a starting point](#choose-your-starting-point) · [Use the resources](#make-the-most-of-the-resources)
 
 </div>
 
-Welcome to the VERIQTA Engineering PDF Library. This repository brings together downloadable engineering resources organised by subject, so you can find material relevant to what you are learning, building or investigating.
+VERIQTA Press is the publishing home for VERIQTA’s engineering books, notebooks and learning resources. This repository brings together its free engineering PDFs and supporting material across Linux, programming, networking, cloud, DevOps, SRE, security, platform engineering and production systems.
 
-Use the collection to develop technical understanding, revisit a concept, support practical work or prepare to explain your engineering decisions. You can start with foundations or go directly to a subject that matches your current needs.
+Whether you are learning your first Linux commands, strengthening your cloud skills or exploring advanced engineering decisions, you can choose a subject and find resources relevant to your goals. Read to understand the concepts, connect them to practical work and develop explanations you can defend with evidence.
 
-## Browse the library
+## Browse the collection
 
 Choose a topic to open its folder and explore the available PDFs and supporting resources.
 
@@ -73,7 +73,7 @@ Combine [Career, Interviews & Certifications](./20.%20CAREER%2C%20INTERVIEWS%20%
 
 These are suggested starting points, not prerequisites for every document. Choose material that fits your experience and purpose.
 
-## Make the most of the library
+## Make the most of the resources
 
 1. **Choose a specific goal.** Decide what you want to understand or accomplish before selecting a document.
 2. **Open the relevant topic folder.** Preview a PDF on GitHub where supported, or download it using the file’s download control.
@@ -89,9 +89,11 @@ If the collection helps you, **star the repository** to bookmark it and support 
 
 Found an unclear explanation, a broken link or an outdated example? Open an issue with the document name, affected section and a clear description. Include a public technical source when suggesting a correction. Contributions should respect source authors and exclude credentials or private operational information.
 
-## About VERIQTA
+## About VERIQTA Press
 
-VERIQTA creates engineering learning resources and training for people developing skills in DevOps, cloud, SRE, platform engineering and related disciplines.
+VERIQTA Press brings VERIQTA’s engineering publications together under one name. The free resources in this repository sit alongside its broader publishing work, including books and longer-form engineering material.
+
+VERIQTA also develops training in DevOps, cloud, SRE, platform engineering and related disciplines. Explore the wider brand and follow its learning resources through the links below.
 
 - [Explore VERIQTA](https://veriqta.com)
 - [Browse VERIQTA WORLD repositories](https://github.com/VERIQTA-WORLD)
