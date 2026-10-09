@@ -1,6 +1,6 @@
 <div align="center">
 
-![VERIQTA Press](assets/veriqta-press-banner.svg)
+![VERIQTA Press](https://github.com/veriqta/veriqta/blob/main/veriqta-press-banner.svg)
 
 # VERIQTA Press
 
