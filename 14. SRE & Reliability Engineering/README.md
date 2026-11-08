@@ -1,6 +1,6 @@
 # SRE & Reliability Engineering
 
-[Library home](../README.md) · [PDF catalog](../CATALOG.md)
+[Library home](../README.md)
 
 Browse the publications below. Open a title to preview it on GitHub, then use the download control to save a copy.
 
@@ -10,3 +10,4 @@ Browse the publications below. Open a title to preview it on GitHub, then use th
 - [SRE BIBLE](SRE%20BIBLE.pdf)
 - [SRE FOR COMPLETE BEGINNERS](SRE%20FOR%20COMPLETE%20BEGINNERS.pdf)
 - [SRE HANDBOOK](SRE%20HANDBOOK.pdf)
+- [First 90 Days as an SRE](First%2090%20Days%20as%20an%20SRE.pdf)
