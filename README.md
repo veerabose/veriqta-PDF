@@ -4,6 +4,21 @@
 
 <table width="100%">
 <tr>
+<td align="center" valign="top" width="33%"><a href="27.%20Career%2C%20Interviews%20%26%20Certifications/Senior%20DevOps%20Resume%20Playbook.pdf"><img src="assets/pdf-covers/senior-devops-resume-playbook.jpg" alt="Senior DevOps Resume Playbook" title="Senior DevOps Resume Playbook" width="100%" /></a></td>
+<td align="center" valign="top" width="33%"><a href="08.%20Infrastructure%20as%20Code/5%20Ansible%20Playbooks%20That%20Automate%20Your%20Busywork.pdf"><img src="assets/pdf-covers/five-ansible-playbooks.jpg" alt="5 Ansible Playbooks That Automate Your Busywork" title="5 Ansible Playbooks That Automate Your Busywork" width="100%" /></a></td>
+<td align="center" valign="top" width="33%"><a href="06.%20Kubernetes/10%20Kubernetes%20Projects%20That%20Will%20Get%20You%20Hired.pdf"><img src="assets/pdf-covers/ten-kubernetes-projects-to-get-hired.jpg" alt="10 Kubernetes Projects That Will Get You Hired" title="10 Kubernetes Projects That Will Get You Hired" width="100%" /></a></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="01.%20Programming%20%26%20Development/Git%20%26%20GitHub%20Production%20Engineering.pdf"><img src="assets/pdf-covers/git-github-production-engineering.jpg" alt="Git &amp; GitHub Production Engineering" title="Git &amp; GitHub Production Engineering" width="100%" /></a></td>
+<td align="center" valign="top" width="33%"><a href="28.%20Hands-On%20Projects/Build%20a%20Disaster%20Recovery%20Lab%20Back%20Up%2C%20Destroy%2C%20and%20Restore%20a%20Real%20Application.pdf"><img src="assets/pdf-covers/disaster-recovery-lab.jpg" alt="Build a Disaster Recovery Lab Back Up, Destroy, and Restore a Real Application" title="Build a Disaster Recovery Lab Back Up, Destroy, and Restore a Real Application" width="100%" /></a></td>
+<td align="center" valign="top" width="33%"><a href="16.%20Troubleshooting/Cloud%20Troubleshooting%20Commands%20Handbook.pdf"><img src="assets/pdf-covers/cloud-troubleshooting-commands.jpg" alt="Cloud Troubleshooting Commands Handbook" title="Cloud Troubleshooting Commands Handbook" width="100%" /></a></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="06.%20Kubernetes/Kubernetes%20CrashLoopBackOff%20Diagnose%2025%20Real%20Container%20Restart%20Failures.pdf"><img src="assets/pdf-covers/kubernetes-crashloopbackoff.jpg" alt="Kubernetes CrashLoopBackOff Diagnose 25 Real Container Restart Failures" title="Kubernetes CrashLoopBackOff Diagnose 25 Real Container Restart Failures" width="100%" /></a></td>
+<td align="center" valign="top" width="33%"><a href="02.%20Networking/50%20Networking%20Problems%20for%20DevOps%20Engineers.pdf"><img src="assets/pdf-covers/fifty-networking-problems.jpg" alt="50 Networking Problems for DevOps Engineers" title="50 Networking Problems for DevOps Engineers" width="100%" /></a></td>
+<td align="center" valign="top" width="33%"><a href="16.%20Troubleshooting/How%20to%20Debug%20a%20Broken%20Server%20Like%20a%20Detective.pdf"><img src="assets/pdf-covers/debug-broken-server.jpg" alt="How to Debug a Broken Server Like a Detective" title="How to Debug a Broken Server Like a Detective" width="100%" /></a></td>
+</tr>
+<tr>
 <td align="center" valign="top" width="33%"><a href="13.%20Monitoring%20%26%20Observability/PROMETHEUS%20AND%20GRAFANA.pdf"><img src="assets/pdf-covers/001.jpg" alt="Prometheus and Grafana Crash Course" title="Prometheus and Grafana Crash Course" width="100%" /></a></td>
 <td align="center" valign="top" width="33%"><a href="14.%20SRE%20%26%20Reliability%20Engineering/First%2090%20Days%20as%20an%20SRE.pdf"><img src="assets/pdf-covers/002.jpg" alt="First 90 Days as an SRE" title="First 90 Days as an SRE" width="100%" /></a></td>
 <td align="center" valign="top" width="33%"><a href="21.%20AI%20for%20DevOps/Build%20an%20AI%20Linux%20Troubleshooting%20Assistant%20That%20Explains%20Real%20Command%20Output.pdf"><img src="assets/pdf-covers/003.jpg" alt="Build an AI Linux Troubleshooting Assistant That Explains Real Command Output" title="Build an AI Linux Troubleshooting Assistant That Explains Real Command Output" width="100%" /></a></td>
