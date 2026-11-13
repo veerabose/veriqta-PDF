@@ -4,14 +4,14 @@
 
 <table width="100%">
 <tr>
-<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/fifty-linux-production-failures.jpg" alt="50 Linux Production Failures" title="50 Linux Production Failures" width="100%" /><br /><strong>PDF not available</strong></td>
-<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/production-maintenance-zero-downtime.jpg" alt="Production Maintenance &amp; Zero-Downtime Changes" title="Production Maintenance &amp; Zero-Downtime Changes" width="100%" /><br /><strong>PDF not available</strong></td>
-<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/shell-scripting-from-scratch.jpg" alt="Shell Scripting from Scratch" title="Shell Scripting from Scratch" width="100%" /><br /><strong>PDF not available</strong></td>
+<td align="center" valign="top" width="33%"><a href="00.%20Linux/50%20Linux%20Production%20Failures.pdf"><img src="assets/pdf-covers/fifty-linux-production-failures.jpg" alt="50 Linux Production Failures" title="50 Linux Production Failures" width="100%" /></a></td>
+<td align="center" valign="top" width="33%"><a href="17.%20Production%20Engineering/Production%20Maintenance%20%26%20Zero-Downtime%20Changes.pdf"><img src="assets/pdf-covers/production-maintenance-zero-downtime.jpg" alt="Production Maintenance &amp; Zero-Downtime Changes" title="Production Maintenance &amp; Zero-Downtime Changes" width="100%" /></a></td>
+<td align="center" valign="top" width="33%"><a href="03.%20Shell%20Scripting/Shell%20Scripting%20From%20Scratch.pdf"><img src="assets/pdf-covers/shell-scripting-from-scratch.jpg" alt="Shell Scripting from Scratch" title="Shell Scripting from Scratch" width="100%" /></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/cloud-security-review.jpg" alt="Cloud Security Review Handbook" title="Cloud Security Review Handbook" width="100%" /><br /><strong>PDF not available</strong></td>
-<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/fifty-jenkins-pipeline-mistakes.jpg" alt="50 Jenkins Pipeline Mistakes and How to Fix" title="50 Jenkins Pipeline Mistakes and How to Fix" width="100%" /><br /><strong>PDF not available</strong></td>
-<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/seven-docker-compose-setups.jpg" alt="7 Docker Compose Setups You’ll Reuse Forever" title="7 Docker Compose Setups You’ll Reuse Forever" width="100%" /><br /><strong>PDF not available</strong></td>
+<td align="center" valign="top" width="33%"><a href="19.%20Cloud%20Security/Cloud%20Security%20Review%20Handbook.pdf"><img src="assets/pdf-covers/cloud-security-review.jpg" alt="Cloud Security Review Handbook" title="Cloud Security Review Handbook" width="100%" /></a></td>
+<td align="center" valign="top" width="33%"><a href="07.%20CI-CD%20%26%20GitOps/50%20Jenkins%20Pipeline%20Mistakes%20and%20How%20to%20Fix.pdf"><img src="assets/pdf-covers/fifty-jenkins-pipeline-mistakes.jpg" alt="50 Jenkins Pipeline Mistakes and How to Fix" title="50 Jenkins Pipeline Mistakes and How to Fix" width="100%" /></a></td>
+<td align="center" valign="top" width="33%"><a href="05.%20Docker%20%26%20Containers/7%20Docker%20Compose%20Setups%20You%27ll%20Reuse%20Forever.pdf"><img src="assets/pdf-covers/seven-docker-compose-setups.jpg" alt="7 Docker Compose Setups You’ll Reuse Forever" title="7 Docker Compose Setups You’ll Reuse Forever" width="100%" /></a></td>
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="28.%20Hands-On%20Projects/25%20Real-World%20Terraform%20Projects.pdf"><img src="assets/pdf-covers/twenty-five-terraform-projects.jpg" alt="25 Real-World Terraform Projects" title="25 Real-World Terraform Projects" width="100%" /></a></td>
@@ -19,7 +19,7 @@
 <td align="center" valign="top" width="33%"><a href="11.%20Databases/MySQL%20for%20Beginners.pdf"><img src="assets/pdf-covers/mysql-first-database.jpg" alt="MySQL for Beginners: Your First Database" title="MySQL for Beginners: Your First Database" width="100%" /></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/aws-well-architected-review.jpg" alt="AWS Well-Architected Review: 50 Real Architecture Decisions" title="AWS Well-Architected Review: 50 Real Architecture Decisions" width="100%" /><br /><strong>PDF not available</strong></td>
+<td align="center" valign="top" width="33%"><a href="09.%20AWS/AWS%20Well-Architected%20Review%2050%20Real%20Architecture%20Decisions.pdf"><img src="assets/pdf-covers/aws-well-architected-review.jpg" alt="AWS Well-Architected Review: 50 Real Architecture Decisions" title="AWS Well-Architected Review: 50 Real Architecture Decisions" width="100%" /></a></td>
 <td align="center" valign="top" width="33%"><a href="27.%20Career%2C%20Interviews%20%26%20Certifications/Senior%20DevOps%20Resume%20Playbook.pdf"><img src="assets/pdf-covers/senior-devops-resume-playbook.jpg" alt="Senior DevOps Resume Playbook" title="Senior DevOps Resume Playbook" width="100%" /></a></td>
 <td align="center" valign="top" width="33%"><a href="08.%20Infrastructure%20as%20Code/5%20Ansible%20Playbooks%20That%20Automate%20Your%20Busywork.pdf"><img src="assets/pdf-covers/five-ansible-playbooks.jpg" alt="5 Ansible Playbooks That Automate Your Busywork" title="5 Ansible Playbooks That Automate Your Busywork" width="100%" /></a></td>
 </tr>
